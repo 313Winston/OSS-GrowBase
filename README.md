@@ -1,4 +1,4 @@
-# Vorlage 1: README.md
+# README.md
 
 ```markdown
 # OSS-GrowBase
